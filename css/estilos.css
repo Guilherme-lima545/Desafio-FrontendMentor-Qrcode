@@ -1,0 +1,44 @@
+body {
+    background-color: aliceblue;
+}
+
+.qrcode {
+    background-color: white;
+    width: 35%;
+    height: 70%;
+    margin: 0 auto;
+    border-radius: 35px;
+    align-items: center;
+}
+
+.qrcode .imagemqr {
+    display: flex;
+    margin: 0 auto;
+    padding: 5%;
+}
+
+.qrcode .imagemqr img {
+    border-radius: 35px;
+}
+
+
+.qrcode h1 {
+    color: black;
+    font-family: "Inter";
+    margin-left: 14%;
+    padding: 1%;
+    display: flex;
+}
+
+.qrcode p {
+    color: grey;
+    font-family: "Inter";
+    margin-left: 23%;
+    padding: 5%;
+    width: 38%;
+    height: 30%;
+    align-items: center;
+    display: flex;
+    
+}
+

@@ -1,0 +1,45 @@
+@media (max-width: 1700px) {
+
+    .qrcode {
+        width: 38%;
+    }
+}
+
+@media (max-width: 1612px) {
+
+    .qrcode {
+        width: 39%;
+    }
+}
+
+@media (max-width: 903px) {
+
+    .qrcode {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1418px) {
+
+    .qrcode {
+        width: 44%;
+    }
+}
+
+@media (max-width: 1418px) { 
+
+    .qrcode {
+        width: 66%;
+    }
+}
+
+@media (max-width: 573px) {
+
+    .qrcode  .imagemqr img {
+        width: 100%;
+    }
+
+    .qrcode h1 {
+        width: 80%;
+    }
+}
